@@ -1,5 +1,4 @@
-# Shell-Simple-Converter
-Shell-Simple-Converter
+Simple Converter
 
 A project from Hyperskill https://hyperskill.org/projects/256
 
